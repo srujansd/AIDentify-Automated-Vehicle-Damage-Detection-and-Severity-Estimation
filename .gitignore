@@ -1,0 +1,6 @@
+uploads/ 
+runs/ 
+*.pt 
+__pycache__/ 
+*.pyc 
+*.mp4 
