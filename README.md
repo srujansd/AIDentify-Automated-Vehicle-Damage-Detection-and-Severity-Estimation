@@ -44,18 +44,6 @@ OpenCV
 
 HTML, CSS, JavaScript
 
-📁 Project Structure
-AIDentify/
-├── dataset/               # Training images & annotations
-├── models/                # YOLOv8 model files
-├── static/                # Frontend static assets
-├── templates/             # HTML templates
-├── app.py                 # Flask backend
-├── detect.py              # Inference script
-├── train.py               # Model training script
-├── requirements.txt       # Dependencies
-└── README.md              # Documentation
-
 
 🎥 How It Works
 
