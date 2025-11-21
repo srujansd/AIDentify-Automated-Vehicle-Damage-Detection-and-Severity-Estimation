@@ -56,26 +56,6 @@ AIDentify/
 │── requirements.txt       # Dependencies
 │── README.md              # Documentation
 
-🔧 Installation & Setup
-1. Clone the Repository
-git clone https://github.com/yourusername/AIDentify.git
-cd AIDentify
-
-2. Install Dependencies
-pip install -r requirements.txt
-
-3. Download Model Weights
-
-Place your trained YOLOv8 weights (e.g., best.pt) inside the models directory.
-
-4. Run the Flask Application
-python app.py
-
-5. Access the Web Interface
-
-Open your browser and visit:
-
-http://127.0.0.1:5000
 
 🎥 How It Works
 
