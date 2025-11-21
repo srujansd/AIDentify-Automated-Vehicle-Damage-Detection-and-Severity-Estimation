@@ -59,7 +59,7 @@ Output is displayed instantly on the web interface.
 
 📈 Results
 
-Detects common vehicle damages: dents, scratches, cracks, broken parts etc,..
+Detects common vehicle damages: dents, scratches, cracks, broken parts etc, with the severity of that particular damage.
 
 Works effectively under various lighting conditions
 
