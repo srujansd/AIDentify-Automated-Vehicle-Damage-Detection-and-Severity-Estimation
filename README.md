@@ -67,8 +67,6 @@ Performs better than older models like YOLOv5 and SSD
 
 🔮 Future Enhancements
 
-Automatic damage severity rating
-
 Repair cost estimation
 
 Cloud deployment (AWS/GCP/Azure)
